@@ -8,7 +8,7 @@ function number () {
   // Get user input from box
   first = document.getElementById('input').value
   second = document.getElementById('input2').value
-  
+
   first = parseInt(first)
   second = parseInt(second)
 
