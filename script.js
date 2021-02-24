@@ -9,7 +9,7 @@ function number () {
   first = document.getElementById('input').value
   second = document.getElementById('input2').value
   
-first = parseInt(first)
+  first = parseInt(first)
   second = parseInt(second)
 
   for (let i = 0; i < first; i++) {
